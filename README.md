@@ -4,7 +4,7 @@
 
 ## Description
 
-<b>This is a personal cybersecurity project to learn how phishing malware is effective.<b><br>
+<b>This is a personal cybersecurity project to learn how phishing malware is effective.</b><br>
 If this software were to be packaged as a .jar file and sent to targeted users who are not very tech-literate, this would be an easy way to harvest credentials.<br>
 All they would have to do is download and run the file, then fill it out with as many logins as they want to check. Now all those logins are compromised.<br>
 If this software would have a way to send the compromimsed credentials over a network connection to an external database server that an attacker manages, then they attacker could send this malware to many users (through email or other methods) and liklely get a good amount of credentials sent to their database where they can then go and try to log in to websites and use other methods like social engineering to try and bypass existing login security methods such as Multi-Factor Authentication.
