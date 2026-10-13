@@ -21,7 +21,7 @@ Its very straightforward, it has a main window where it describes its "purpose",
 2. It uses buzzwords like "breached", "database", "records" making it sound official and more legit to regular or less tech-literate users
 3. The loading bar makes users think its actually looking through a database, even though its functionally useless and is just an animation
 4. It ends with telling the user that their login is secure, leaving less room for worry
-5. It gives the attacker the users login for a specific website, which can include their personal email(s) which attackers can exploit in the future, along with a passwor which can also be further exploited if the user uses that same password for multiple logins
+5. It gives the attacker the users login for a specific website, which can include their personal email(s) which attackers can exploit in the future, along with a password which can also be further exploited if the user uses that same password for multiple logins
 
 ## How it Could be Even Scarier
 
