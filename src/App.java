@@ -429,7 +429,7 @@ public class App {
     private void stylePrimaryButton(JButton button) {
         button.setFont(new Font("SansSerif", Font.BOLD, 26));
         button.setBackground(new Color(13, 110, 253));
-        button.setForeground(Color.WHITE);
+        button.setForeground(Color.BLACK);
         button.setFocusPainted(false);
         button.setCursor(new Cursor(Cursor.HAND_CURSOR));
         button.setBorder(BorderFactory.createCompoundBorder(
