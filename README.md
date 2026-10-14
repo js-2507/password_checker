@@ -13,7 +13,7 @@ If this software would have a way to send the compromimsed credentials over a ne
 
 This is a simple phishing software that tricks users into thinking its a legit password breach checking tool. <br> 
 It preys on less tech-literate users who don't know any better (such as kids or elderly people).<br>
-Its very straightforward, it has a main window where it describes its "purpose", the next window asks for a website and its credentials that you want to check against a "breached passwords database", then it has a completley fake loading bar where is "searches" the "database" (where its really just writing the information the user inputs to a .txt file), the loading bar makes it seem like its actually looking through a database, then it always ends with a window saying their password was not found in the database and that their login is secure. 
+Its very straightforward, it has a main window where it describes its "purpose", the next window asks for a website and its credentials that you want to check against a "breached passwords database", then it has a completley fake loading bar where is "searches" the "database" (where its really just creating a "data.txt" file and writing the information the user inputs onto that file), the loading bar makes it seem like its actually looking through a database, then it always ends with a window saying their password was not found in the database and that their login is secure. 
 
 ## Why it Could Work
 
